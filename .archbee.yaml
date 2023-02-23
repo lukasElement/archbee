@@ -1,5 +1,4 @@
-root: doc-api
+root: ./docs
 structure:
-  summary: summary.md
-  assets: assets
-
+  readme: Introduction.md
+  summary: Summary.md
