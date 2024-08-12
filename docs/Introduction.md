@@ -1,3 +1,3 @@
 # Introduction to Slate in docs!
 
-# Slate Test in docs
+# Slate DOCS in docs
