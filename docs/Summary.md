@@ -1,3 +1,3 @@
 # Table of contents
 
-- [Introduction](../TEST/Introduction.md)
+- [Introduction](../docs/Introduction.md)
