@@ -1,3 +1,3 @@
-# Introduction to Slat 2e  NEW!
+# Introduction to Slat 2e  TEST2!
 
-# Slate Test 2 NEW
+# Slate Test TEST2
