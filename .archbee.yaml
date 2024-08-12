@@ -1,4 +1,4 @@
-root: ./test2
+docspath: ./test2
 structure:
   readme: Introduction.md
   summary: Summary.md
