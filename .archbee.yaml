@@ -1,4 +1,4 @@
-root: ./test2
+root: ./
 structure:
   readme: ./Introduction.md
   summary: ./Summary.md
