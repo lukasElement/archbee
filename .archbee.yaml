@@ -1,4 +1,4 @@
 root: ./docs
 structure:
   summary: summary.md
-  assets: .archbee
+  assets: ./
