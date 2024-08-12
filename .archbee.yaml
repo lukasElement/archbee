@@ -1,4 +1,4 @@
 root: ./test
 structure:
-  readme: ./Introduction.md
-  summary: ./Summary.md
+  readme: Introduction.md
+  summary: Summary.md
